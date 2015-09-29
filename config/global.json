@@ -1,11 +1,11 @@
 {
     "applications": {
-        "ayuvi": {
-            "applicationId": "Pmimq9PVzMjyp38nMd0PNlJpmQLzFQNnduNw5gWZ",
-            "masterKey": "PzrDMSDie3l5wCAWbbJEPw0T5DqYtbJLmeezx8uL"
+        "ayuvi0.1": {
+            "applicationId": "8haeTHUnXtmtnBhiOLMNp4yRFngy5yffMXFg0xiQ",
+            "masterKey": "1iSR8rk8SW8Gb5NbMh5mXGsaG3vY8dVkJqiibvF6"
         }, 
         "_default": {
-            "link": "Ayuvi"
+            "link": "Ayuvi0.1"
         }
     }, 
     "global": {
