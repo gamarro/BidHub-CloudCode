@@ -1,11 +1,11 @@
 {
     "applications": {
-        "<your app name>": {
-            "applicationId": "<your app id>",
-            "masterKey": "<your master key>"
+        "ayuvi": {
+            "applicationId": "Pmimq9PVzMjyp38nMd0PNlJpmQLzFQNnduNw5gWZ",
+            "masterKey": "PzrDMSDie3l5wCAWbbJEPw0T5DqYtbJLmeezx8uL"
         }, 
         "_default": {
-            "link": "<your app name>"
+            "link": "Ayuvi"
         }
     }, 
     "global": {
